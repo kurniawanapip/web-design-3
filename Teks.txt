@@ -1,0 +1,25 @@
+Thanks for visiting my portfolio site. Your tagline or welcome message will go here for visitors to see.
+
+Isi Artikel :
+
+About Me
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non tellus vitae risus gravida accumsan ac sit amet lectus. Pellentesque adipiscing leo sed justo volutpat eu tincidunt urna ornare. Ut enim ante, condimentum eu congue ultrices, sodales quis turpis. Pellentesque nec urna euismod massa pellentesque scelerisque eu at eros.
+
+Nulla eget odio velit, sed ullamcorper urna. Praesent tortor dui, accumsan at porttitor sit amet, blandit at turpis. Nunc massa ante, convallis quis eleifend at, rhoncus vel tellus. Maecenas vel dolor dolor, vel rutrum diam.
+
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vestibulum congue lorem quis lorem cursus blandit. Nulla sit amet fermentum nulla.
+
+
+Isi SideBar :
+
+How Can I Help You?
+
+Web Design
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non tellus vitae risus gravida accumsan ac sit amet lectus. Pellentesque adipiscing leo sed justo volutpat eu tincidunt urna ornare.
+
+Web Development
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non tellus vitae risus gravida accumsan ac sit amet lectus. Pellentesque adipiscing leo sed justo volutpat eu tincidunt urna ornare.
+
+Logo Desain
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. In non tellus vitae risus gravida accumsan ac sit amet lectus. Pellentesque adipiscing leo sed justo volutpat eu tincidunt urna ornare.

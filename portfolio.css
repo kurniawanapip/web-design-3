@@ -1,0 +1,111 @@
+*{margin : 0px auto;}
+
+body {
+	background-color: #513D32;
+}
+
+.kotak {
+	width : 80%;
+	padding : 3%;
+}
+
+/* header */
+.header {
+	overflow : hidden;
+}		
+.logo {
+	float : left;
+}
+/* akhir header */
+
+/* tab */
+.tab {
+	overflow: hidden;
+}
+.portfolio a, .service a, .themes a, .home a, .contact a {
+	background-color: #85AC39;
+	width: 16%;
+	float: left;
+	text-align: center;
+	padding: 2%;
+	text-decoration: none;
+	color: white;
+	font-weight: bold;
+}
+.portfolio a:hover, .service a:hover, .themes a:hover, .home a:hover, .contact a:hover {
+	background-color : #FFFBE8;
+	color: black;
+    font-weight: bold;
+}
+/* akhir tab */
+
+
+.tengah {
+	background-color: #FFFBE8;
+	padding: 2%;
+}
+.bag-tengah {
+	overflow: hidden;
+}
+
+/* image */
+.image {
+	height: 250px;
+	width: 97%;
+	border: 10px solid #E2D8C7;
+	background-image: url('images/slider-image-2.jpg');
+	background-size: cover;
+}
+/* akhir image */
+
+/* queto */
+.queto {
+	padding-top: 1%;
+	height: 40px;
+	width: 100%;
+	margin-top: 1%;
+	border-bottom: 2px solid #E2D8C7;
+	border-top: 2px solid #E2D8C7;
+}
+.queto1 p {
+	font-style: italic;
+	font-family: sans-serif;
+}
+.queto1 {
+	width: 70%;
+	float: left;
+}
+.queto2 {
+	width: 12%;
+	float: right;
+}
+/* akhir queto */
+
+/* content */
+.content {
+	text-align: justify;
+	padding-top: 2%;
+}
+.content1 {
+	float: left;
+	width: 48%;
+	padding-right: 2%;
+}
+.content2 {
+	float: right;
+	width: 50%;
+}
+/* akhir content */
+
+/* footer */
+.bawah {
+	text-align : center;
+	background : #375E9F;
+	color: white;
+	padding: 2%;
+}
+/* akhir footer */
+
+.content2 h1 , h3 , .content1 h1 {
+	color: #8CA83D;
+}
